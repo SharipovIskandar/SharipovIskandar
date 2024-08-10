@@ -2,7 +2,7 @@
 
 [![Iskandar Sharipov Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IskandarSharipov&layout=compact&theme=react)](https://wakatime.com/@IskandarSharipov)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharipovIskandar&layout=compact&theme=react&langs_count=4)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharipovIskandar&layout=compact&theme=react&langs_count=20)](#)
 
 ---
 
