@@ -1,6 +1,6 @@
-[![Sizning GitHub stats](https://github-readme-stats.vercel.app/api?username=SharipovIskandar&count_private=true&show_icons=true&theme=react)](#)
+[![Sharipov Iskandar GitHub stats](https://github-readme-stats.vercel.app/api?username=SharipovIskandar&count_private=true&show_icons=true&theme=react)](#)
 
-[![Sizning Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IskandarSharipov&layout=compact&theme=react)](https://wakatime.com/@IskandarSharipov)
+[![Iskandar Sharipov Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IskandarSharipov&layout=compact&theme=react)](https://wakatime.com/@IskandarSharipov)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharipovIskandar&layout=compact&theme=react&langs_count=6)](#)
 
