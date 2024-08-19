@@ -1,12 +1,15 @@
+### Tools and Programs:
+[![My Skills](https://skillicons.dev/icons?i=php,python,c,mysql,linux,bash,git,github,html,css,bootstrap,vscode,postman)](https://github.com/SharipovIskandar)
+
+
 [![Sharipov Iskandar GitHub stats](https://github-readme-stats.vercel.app/api?username=SharipovIskandar&count_private=true&show_icons=true&theme=react)](#)
 
 [![Iskandar Sharipov Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IskandarSharipov&layout=compact&theme=react)](https://wakatime.com/@IskandarSharipov)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharipovIskandar&layout=compact&theme=react&langs_count=20)](#)
-
+### My activity:
+[![Hits](https://hits.sh/github.com/AminovJamshid.svg)](https://hits.sh/github.com/AminovJamshid/)
 ---
-### Tools and Programs:
-[![My Skills](https://skillicons.dev/icons?i=php,python,c,mysql,linux,bash,git,github,html,css,bootstrap,vscode,postman)](https://github.com/SharipovIskandar)
 
 
 ### Get in touch:
