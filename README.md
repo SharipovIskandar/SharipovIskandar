@@ -5,6 +5,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharipovIskandar&layout=compact&theme=react&langs_count=20)](#)
 
 ---
+---
+## Watch snake eating my Github contibutions
+![snake gif](https://github.com/SharipovIskandar/SharipovIskandar/blob/output/github-contribution-grid-snake-dark.svg)
+---
 
 ### Get in touch:
 
