@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharipov Iskandar</h1>
-<h3 align="center">PHP programmer from Uzbekistan | Lifelong learner | Reader enthusiast | Professional mistake maker</h3>
+<h3 align="center">PHP programmer from Uzbekistan | Lifelong learner | Dota 2 Semi-Pro Player | Professional mistake maker</h3>
 
 
 ### Tools and Programs:
