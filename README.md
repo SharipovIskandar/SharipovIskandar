@@ -5,6 +5,18 @@
 ### Tools and Programs:
 [![My Skills](https://skillicons.dev/icons?i=php,python,c,mysql,linux,bash,git,github,html,css,bootstrap,vscode,postman)](https://github.com/SharipovIskandar)
 
+<h3 align="center">📫 Connect with Me</h3>
+<p align="center">
+    <a href="mailto:sharipoviskandar031@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="[https://leetcode.com/u/WertherYTGEO/](https://leetcode.com/u/SharipovIskandar/)">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=black" alt="LeetCode">
+    </a>
+    <a href="https://t.me/I8kandar">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+</p>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SharipovIskandar&data=followers,repositories,stars,commits&theme=dark)](https://github.com/SharipovIskandar)
 
