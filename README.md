@@ -13,7 +13,7 @@
     <a href="[https://leetcode.com/u/WertherYTGEO/](https://leetcode.com/u/SharipovIskandar/)">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=black" alt="LeetCode">
     </a>
-    <a href="https://t.me/I8kandar">
+    <a href="https://t.me/IskandarSharipov">
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
 </p>
